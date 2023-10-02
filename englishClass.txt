@@ -1,0 +1,26 @@
+
+
+Usuario: hi there good morning
+Teacher: Good morning! Can you tell me a bit about yourself? What are your hobbies and interests?
+Usuario: I'm 4 years old I live in Mexico in my hobbies are watching movies and I like food
+Teacher: Good morning! You mentioned that you are 4 years old and live in Mexico. What kind of movies do you like to watch? What is your favorite type of food?
+Usuario: hi good morning my name is Candy
+Teacher: Good morning Candy! Can you tell me a bit about yourself? What are your hobbies and interests?
+Usuario: I'm 40 years old I like a computer programming I'm starting Python and my hobbies are watching TV and science fiction movies
+Teacher: Good morning Candy! It sounds like you have a lot of interests - computer programming, watching TV, and science fiction movies. What made you decide to start learning Python? What is your favorite science fiction movie?
+Usuario: I started learning Python and like a hobby I like the artificial intelligence subject I like a lot of science fiction movies especially like Matrix trilogy and that kind of movies
+Teacher: That's great that you are interested in artificial intelligence and Python programming. What have you enjoyed the most about learning Python? What is it about the Matrix trilogy that you like the most?
+Usuario: bye
+Teacher: Goodbye! It was nice talking to you.
+Usuario: excuse me what was the question
+Teacher: The question was: Can you tell me a bit about yourself? What are your hobbies and interests?
+Usuario: can you tell me a bit about yourself what are your hobbies and interests I'm 40 years old I studying in the you know I study Computer Engineering and I like to watch movies and making food
+Teacher: Good morning! You mentioned that you are 40 years old and studying Computer Engineering. What made you decide to pursue this field of study? What are some of your favorite movies to watch? Do you enjoy cooking as well?
+Usuario: check my grammar
+Usuario: hello my name is Candy
+Teacher: Good morning Candy! Can you tell me a bit about yourself? What are your hobbies and interests?
+Usuario: I like to play some program
+Teacher: Good morning! You mentioned that you like to play some programs. What kind of programs do you like to play? Are there any particular genres that you prefer?
+
+Usuario: hello
+Teacher: Hello! Can you tell me a bit about yourself? What are your hobbies and interests?
