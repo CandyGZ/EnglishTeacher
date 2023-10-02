@@ -1,3 +1,5 @@
+# BE SURE TO ADD YOU CAHTGPT API ON LINE 15 !!
+
 import openai
 import os
 import pyaudio
@@ -10,7 +12,7 @@ from gtts import gTTS
 
 # future Update: add pocketsphinx for speech recognition
 
-openai.api_key = "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"
+openai.api_key = "YOUR API"
 
 
 def chat_with_gpt(prompt):
